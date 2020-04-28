@@ -1,0 +1,30 @@
+{
+  "name": "moviedex-api-nicke-jacob",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thinkful-ei-narwhal/moviedex-api-nicke-jacob-noenv.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thinkful-ei-narwhal/moviedex-api-nicke-jacob-noenv/issues"
+  },
+  "homepage": "https://github.com/thinkful-ei-narwhal/moviedex-api-nicke-jacob-noenv#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "helmet": "^3.22.0",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
